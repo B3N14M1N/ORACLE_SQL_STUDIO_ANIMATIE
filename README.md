@@ -1,6 +1,6 @@
 # PROIECT_BD_STUDIO_ANIMATIE
 
-Acest proiect reprezintă o aplicație de gestiune pentru un studio de animație, dezvoltată folosind Oracle SQL și C#. Aplicația permite gestionarea eficientă a resurselor, proiectelor și personalului din cadrul unui studio de animație.
+Acest proiect reprezintă o aplicație de gestiune pentru un studio de animație, dezvoltată folosind Oracle SQL și C#. Aplicația permite gestionarea eficientă a clienților, proiectelor și personalului din cadrul unui studio de animație.
 
 ## Cuprins
 
