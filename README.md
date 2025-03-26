@@ -27,6 +27,7 @@ Aplicația facilitează managementul operațiunilor unui studio de animație, of
 - **Administrarea echipelor**: Gestionarea membrilor echipei, rolurilor și responsabilităților acestora.
 - **Gestionarea clienților**: Gestionarea clienților și a cererilor de proiectelor, stabilirea termenilor limită, starea proiectelor și bugetul alocat.
 - **Raportare și statistici**: Generarea de rapoarte privind progresul proiectelor, utilizarea resurselor și performanța echipelor.
+- **Executare scripturi SQL**: Oferă posibilitatea de executare a scripturilor SQL direct din aplicație, output-ul și erorile sunt avertizate într-o consolă.
 
 ![image](https://github.com/user-attachments/assets/e8d92157-716e-49d3-a895-d3d98e05e080)
 
